@@ -1,7 +1,5 @@
 # SimpleSiteStarter
 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/RedBeret/SimpleSiteStarter) ![License](https://img.shields.io/github/license/RedBeret/SimpleSiteStarter)
-
 Welcome to **SimpleSiteStarter**! This project serves as a comprehensive foundation for any web developer aiming to kickstart their projects using vanilla HTML, CSS, and JavaScript. Whether you're seasoned in web development or taking your first steps, SimpleSiteStarter provides an organized and streamlined approach.
 
 ## Table of Contents
@@ -62,7 +60,6 @@ You're all set! Begin crafting your website, and see your changes live as you sa
 - **Give Us a Star**: Loving SimpleSiteStarter? Star our repository! It's a simple gesture that helps others find this useful tool.
 - **Feedback & Contributions**: We value your thoughts and contributions. Share ideas, report issues, or help enhance SimpleSiteStarter.
 
-[![Star on GitHub](https://img.shields.io/github/stars/RedBeret/SimpleSiteStarter.svg?style=social)](https://github.com/RedBeret/SimpleSiteStarter/stargazers)
 
 ## Testing Your Page
 
