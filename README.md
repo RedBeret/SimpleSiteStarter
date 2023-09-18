@@ -8,9 +8,6 @@ Welcome to **SimpleSiteStarter**! This project serves as a comprehensive foundat
 - [Features](#features)
 - [Get Started with SimpleSiteStarter](#-get-started-with-simplesitestarter)
 - [Testing Your Page](#testing-your-page)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Purpose
 
