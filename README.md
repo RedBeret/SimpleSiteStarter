@@ -70,18 +70,3 @@ To view your project, simply open your preferred browser and navigate to:
 ```
 http://localhost:3000
 ```
-
-
-## Contributing
-
-We welcome contributions to **SimpleSiteStarter**! Whether it's bug fixes, feature additions, or documentation improvements, your input is valued. Check out the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines. 
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Thanks to all developers and contributors who've inspired and made this project possible.
-- To popular repositories for their best practices, from which this README draws inspiration.
-
